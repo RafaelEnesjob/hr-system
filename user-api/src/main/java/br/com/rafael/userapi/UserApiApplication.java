@@ -25,7 +25,7 @@ public class UserApiApplication implements CommandLineRunner {
 				new User(null,
 						"Rafael Enes",
 						"rafaelenes@gmail.com",
-						"123456", 20.0)
+						"123456", 30.0)
 		));
 	}
 }
