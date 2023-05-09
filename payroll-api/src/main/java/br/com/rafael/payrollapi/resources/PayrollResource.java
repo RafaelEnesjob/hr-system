@@ -1,8 +1,7 @@
 package br.com.rafael.payrollapi.resources;
 
 import br.com.rafael.payrollapi.domain.Payroll;
-import br.com.rafael.payrollapi.domain.User;
-import br.com.rafael.payrollapi.services.PayrollService;
+import br.com.rafael.payrollapi.services.impl.PayrollServiceImpl;
 import lombok.RequiredArgsConstructor;
 import org.springframework.http.ResponseEntity;
 import org.springframework.web.bind.annotation.*;
@@ -12,7 +11,7 @@ import org.springframework.web.bind.annotation.*;
 @RequestMapping(value = "/api/payments")
 public class PayrollResource {
 
-    private final PayrollService service;
+    private final PayrollServiceImpl service;
 
     @GetMapping(value = "/{workerId}")
     public ResponseEntity<Payroll> getPayments(@PathVariable Long workerId, @RequestBody Payroll payment) {
