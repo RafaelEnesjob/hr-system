@@ -20,7 +20,7 @@ public class PayrollServiceImpl implements PayrollService {
     private final UserFeign feign;
 
     public Payroll getPayment(Long workerId, Payroll payroll) {
-        log.info("PAYROLL_SERIVE ::: Get request on " + env.getProperty("local.server.port") + " port");
+        log.info("PAYROLL_SERVICE ::: Get request on " + env.getProperty("local.server.port") + " port");
         try {
             var user = feign.findyById(workerId).getBody();
             if (!ObjectUtils.isEmpty(user)) {

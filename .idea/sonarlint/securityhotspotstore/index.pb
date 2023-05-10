@@ -1,16 +1,12 @@
 
 è
 _user-api/src/main/java/br/com/rafael/userapi/resources/exceptions/ResourceExceptionHandler.java,6\4\64fefd3f4b1963180f81207a4750f16a44369579
-
-Ouser-api/src/main/java/br/com/rafael/userapi/services/impl/UserServiceImpl.java,d\7\d71f44696b8698697a4df13f1f5c3217045f8ab5
 ç
 ]user-api/src/main/java/br/com/rafael/userapi/services/exceptions/ObjectNotFoundException.java,d\f\df71a37a1bf8bf0de7b765ebd57246c66568c25d
 v
 Fpayroll-api/src/main/java/br/com/rafael/payrollapi/domain/Payroll.java,c\8\c8ef1c3bad511fbf1e4d3c7b0f1c9e1566718416
 x
 Huser-api/src/main/java/br/com/rafael/userapi/resources/UserResource.java,0\d\0d09620788e5018236604adc17e4a4a146adeaa0
-~
-Npayroll-api/src/main/java/br/com/rafael/payrollapi/feignClients/UserFeign.java,d\9\d94238b6be214d2fb362c53faa3c5f9230c86f78
 s
 Cpayroll-api/src/main/java/br/com/rafael/payrollapi/domain/User.java,c\1\c1ce5a17c9f182bf4f1a92bfbc22ac57546e3629
 ì
@@ -23,8 +19,6 @@ Zpayroll-api/src/main/java/br/com/rafael/payrollapi/resources/exceptions/Standar
 epayroll-api/src/main/java/br/com/rafael/payrollapi/resources/exceptions/ResourceExceptionHandler.java,d\a\dac7ca8844bbd0261a1760d46cb6ec8ce8e70ce4
 v
 Fuser-api/src/main/java/br/com/rafael/userapi/services/UserService.java,2\3\239af2eee420e58d4396f05192348eae262a069f
-à
-Xpayroll-api/src/main/java/br/com/rafael/payrollapi/services/impl/PayrollServiceImpl.java,2\a\2a7f422c4c90b6282e3e119a742b1c9d54f25e6a
 
 Opayroll-api/src/main/java/br/com/rafael/payrollapi/services/PayrollService.java,8\5\85cc1f68478630de0e5981c5326ab3572645a75b
 E

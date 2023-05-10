@@ -1,6 +1,4 @@
 
-
-Ouser-api/src/main/java/br/com/rafael/userapi/services/impl/UserServiceImpl.java,d\7\d71f44696b8698697a4df13f1f5c3217045f8ab5
 v
 Fpayroll-api/src/main/java/br/com/rafael/payrollapi/domain/Payroll.java,c\8\c8ef1c3bad511fbf1e4d3c7b0f1c9e1566718416
 s
@@ -23,9 +21,5 @@ v
 Fuser-api/src/main/java/br/com/rafael/userapi/services/UserService.java,2\3\239af2eee420e58d4396f05192348eae262a069f
 
 Opayroll-api/src/main/java/br/com/rafael/payrollapi/services/PayrollService.java,8\5\85cc1f68478630de0e5981c5326ab3572645a75b
-~
-Npayroll-api/src/main/java/br/com/rafael/payrollapi/feignClients/UserFeign.java,d\9\d94238b6be214d2fb362c53faa3c5f9230c86f78
-ˆ
-Xpayroll-api/src/main/java/br/com/rafael/payrollapi/services/impl/PayrollServiceImpl.java,2\a\2a7f422c4c90b6282e3e119a742b1c9d54f25e6a
 E
 eureka-server/pom.xml,b\3\b39ae52d769ea03b699b5602439afd875433c8a7
